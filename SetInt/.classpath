@@ -7,5 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/ListaInt.jar"/>
+	<classpathentry kind="lib" path="lib/SetInt.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
